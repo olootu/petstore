@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand"
+       [routerLink]="['/home']">Pet Products</a>
+
+    <div id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-item nav-link"
+               [routerLink]="['/pets/add']"
+               routerLinkActive="active">Add New Pet</a>
+
+            <button *ngIf="isLoggedIn" class="btn btn-primary" (click)="logout()">Logout</button>
+
+        </div>
+    </div>
+</nav>

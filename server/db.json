@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Small  big cat",
+      "date": "2021-04-20",
+      "imageUrl": "https://source.unsplash.com/1600x900/?kitten",
+      "description": "Amazing creature"
+    },
+    {
+      "id": 2,
+      "name": "Awesome dog",
+      "date": "2004-07-18",
+      "imageUrl": "https://source.unsplash.com/1600x900/?dog",
+      "description": "Bull dog"
+    },
+    {
+      "id": 3,
+      "name": "German shepperd",
+      "date": "2019-10-10",
+      "imageUrl": "https://source.unsplash.com/1600x900/?german-sherpherd",
+      "description": "Prought in from Germany"
+    },
+    {
+      "id": 4,
+      "name": "Delight fish",
+      "date": "2000-02-20",
+      "imageUrl": "https://source.unsplash.com/1600x900/?fish",
+      "description": "Ocean delight"
+    },
+    {
+      "id": 5,
+      "name": "Agaza lizard",
+      "date": "1999-04-01",
+      "imageUrl": "https://source.unsplash.com/1600x900/?lizard",
+      "description": "Amazing creature"
+    },
+    {
+      "name": "Parrot",
+      "description": "Always talking bird",
+      "date": "1998-01-01",
+      "imageUrl": "https://source.unsplash.com/1600x900/?parrot",
+      "id": 5
+    }
+  ]
+}
